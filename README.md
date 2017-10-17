@@ -4,7 +4,7 @@
 YDigital Media Client Side Libraries
 ====
 
-This set of libraries makes integration to YDigital Media tacking system a breeze.
+This set of libraries makes integration to YDigital Media tracking system a breeze.
 
 
 
