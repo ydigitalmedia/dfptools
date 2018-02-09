@@ -19,7 +19,7 @@ The library needs jQuery or Zepto to be loaded in the target page. But don't wor
 
 
 #### How to use
-In order to use this functionality to serve outofpage creatives in your DFP placement you just need to include this library and the usual placement code returned by the DFP Tag generator. You also must add the class name "**out-of-page-slot**" to the placement target element.
+In order to use this functionality to serve outofpage creatives in your DFP placement you just need to include this library and the usual placement code returned by the DFP Tag generator. You muat also must include the class name "**out-of-page-slot**" in the placement target element.
 See the full example bellow:
 ```
 <!DOCTYPE html>
