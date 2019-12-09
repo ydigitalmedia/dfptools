@@ -35,7 +35,7 @@ See the full example bellow:
                 googletag.enableServices();
             });
         </script>
-        <script type="text/javascript" src='//cdn.jsdelivr.net/gh/ydigitalmedia/dfptools@1/yd-dfp-tools.js'></script>
+        <script type="text/javascript" src='//pkg.ydigitalmedia.com/dfptools@1/yd-dfp-tools.js'></script>
     </head>
     <body>
         <div id='div-gpt-ad-1507138288981-0' class="out-of-page-slot"><!-- Notide the add of the class in this line -->
